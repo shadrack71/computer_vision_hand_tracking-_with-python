@@ -1,8 +1,6 @@
 import cv2
 import mediapipe as mp
 
-
-
 class handDetector():
 
     def __init__(self, mode =False, maxHands=2, model_complexity=1, detectionConfidence=0.5, trackingConfidence=0.5):
