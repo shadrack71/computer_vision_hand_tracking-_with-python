@@ -4,7 +4,6 @@ import time
 import HandTrackingModule as htm
 
 
-
 # def main():
 
 pTime = 0
